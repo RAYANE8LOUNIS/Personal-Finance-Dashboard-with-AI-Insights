@@ -8,7 +8,7 @@ import os
 OUT = os.path.join(os.path.dirname(__file__), '..', 'data', 'transactions.csv')
 
 CATEGORIES = {
-    'Food': ['McDonalds', 'Starbucks', 'Subway', 'Local Diner'],
+    'Food': ['McDonalds', 'Starucks', 'Subway', 'Local Diner'],
     'Transport': ['Uber', 'Bus', 'Train', 'Gas Station'],
     'Shopping': ['Zara', 'H&M', 'Amazon', 'Mall Store'],
     'Bills': ['Electric Co', 'Water Co', 'Internet'],
