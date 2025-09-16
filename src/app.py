@@ -26,11 +26,11 @@ st.sidebar.header("Data")
 uploaded = st.sidebar.file_uploader("Upload transactions CSV", type=['csv'])
 use_sample = st.sidebar.checkbox("Use sample data", value=True)
 
-# Load data: prefer uploaded file; else use sample CSV file
+# here is how to Load data: prefer uploaded file; else use sample CSV file
 if uploaded:
-    # uploaded is a file-like object -> read it into a DataFrame
+    # and here uploaded is a file-like object -> read it into a DataFrame
     df_raw = pd.read_csv(uploaded, parse_dates=['date'])
-    # run the same cleaning pipeline (we use the functions directly)
+    # here is howrun the same cleaning pipeline (we use the functions directly)
     df = clean_categories(df_raw)
     df = feature_engineer(df)
 elif use_sample:

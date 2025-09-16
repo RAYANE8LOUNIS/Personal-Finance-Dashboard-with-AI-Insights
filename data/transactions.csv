@@ -1,0 +1,153 @@
+date,category,amount,description
+2025-01-02,Bills,201.47,Electric Co Bills
+2025-01-02,Food,67.64,Starbucks Food
+2025-01-02,Entertainment,12.44,Spotify Entertainment
+2025-01-04,Shopping,49.75,Zara Shopping
+2025-01-04,Food,70.75,McDonalds Food
+2025-01-06,Entertainment,27.72,Spotify Entertainment
+2025-01-06,Food,13.74,Subway Food
+2025-01-06,Food,30.87,Starbucks Food
+2025-01-10,Transport,1.76,Bus Transport
+2025-01-11,Health,31.89,Pharmacy Health
+2025-01-15,Food,12.09,Subway Food
+2025-01-16,Health,80.66,Dentist Health
+2025-01-17,Food,22.05,Local Diner Food
+2025-01-20,Transport,4.63,Train Transport
+2025-01-20,Entertainment,9.28,Netflix Entertainment
+2025-01-21,Health,39.59,Pharmacy Health
+2025-01-22,Other,24.73,Gift Other
+2025-01-24,Bills,51.49,Water Co Bills
+2025-01-24,Transport,13.52,Train Transport
+2025-01-26,Entertainment,5.65,Netflix Entertainment
+2025-01-27,Food,23.82,Starbucks Food
+2025-01-28,Transport,14.17,Bus Transport
+2025-01-28,Health,45.58,Pharmacy Health
+2025-01-31,Food,15.72,Subway Food
+2025-01-31,Food,6.81,Subway Food
+2025-02-01,Shopping,29.66,Mall Store Shopping
+2025-02-03,Food,11.64,Subway Food
+2025-02-03,Shopping,97.87,Mall Store Shopping
+2025-02-05,Other,57.04,Misc Other
+2025-02-05,Food,42.13,McDonalds Food
+2025-02-06,Food,16.95,Starbucks Food
+2025-02-06,Shopping,36.44,Zara Shopping
+2025-02-08,Bills,35.91,Water Co Bills
+2025-02-08,Other,60.26,Misc Other
+2025-02-12,Food,39.0,Subway Food
+2025-02-13,Transport,8.87,Train Transport
+2025-02-15,Shopping,80.11,Amazon Shopping
+2025-02-16,Health,171.13,Dentist Health
+2025-02-16,Other,371.19,Gift Other
+2025-02-17,Shopping,28.73,H&M Shopping
+2025-02-21,Health,53.81,Dentist Health
+2025-02-22,Other,5.1,Misc Other
+2025-02-22,Shopping,39.13,Zara Shopping
+2025-02-23,Other,7.56,Gift Other
+2025-02-23,Food,10.47,McDonalds Food
+2025-02-24,Shopping,40.16,Zara Shopping
+2025-02-24,Shopping,89.61,H&M Shopping
+2025-02-25,Shopping,151.55,H&M Shopping
+2025-02-25,Other,16.36,Gift Other
+2025-02-26,Other,37.69,Donation Other
+2025-02-26,Entertainment,44.95,Cinema Entertainment
+2025-02-27,Bills,138.09,Water Co Bills
+2025-02-27,Shopping,34.22,H&M Shopping
+2025-03-01,Transport,5.39,Bus Transport
+2025-03-02,Food,2.39,McDonalds Food
+2025-03-02,Other,32.96,Gift Other
+2025-03-06,Food,23.75,Local Diner Food
+2025-03-06,Food,3.97,Local Diner Food
+2025-03-07,Shopping,73.73,Mall Store Shopping
+2025-03-08,Food,18.84,Local Diner Food
+2025-03-08,Shopping,59.12,Zara Shopping
+2025-03-08,Other,6.55,Misc Other
+2025-03-12,Entertainment,8.85,Netflix Entertainment
+2025-03-14,Food,20.06,Local Diner Food
+2025-03-14,Food,12.63,Local Diner Food
+2025-03-15,Other,17.84,Gift Other
+2025-03-16,Other,46.19,Misc Other
+2025-03-16,Other,9.96,Misc Other
+2025-03-16,Other,13.44,Misc Other
+2025-03-17,Shopping,111.37,H&M Shopping
+2025-03-19,Other,39.98,Misc Other
+2025-03-21,Other,144.21,Gift Other
+2025-03-21,Health,22.64,Clinic Health
+2025-03-23,Other,15.89,Donation Other
+2025-03-24,Shopping,60.44,H&M Shopping
+2025-03-26,Other,18.66,Donation Other
+2025-03-28,Food,32.86,Subway Food
+2025-04-01,Bills,105.5,Internet Bills
+2025-04-01,Shopping,45.1,Zara Shopping
+2025-04-02,Food,31.21,Starbucks Food
+2025-04-03,Food,59.55,Starbucks Food
+2025-04-03,Other,190.61,Donation Other
+2025-04-06,Bills,147.73,Internet Bills
+2025-04-06,Entertainment,28.04,Spotify Entertainment
+2025-04-09,Other,40.98,Misc Other
+2025-04-12,Transport,18.53,Train Transport
+2025-04-12,Entertainment,18.96,Cinema Entertainment
+2025-04-15,Other,70.6,Misc Other
+2025-04-16,Food,7.71,Starbucks Food
+2025-04-17,Food,33.82,Subway Food
+2025-04-20,Other,54.03,Gift Other
+2025-04-21,Shopping,83.48,Amazon Shopping
+2025-04-22,Other,20.54,Donation Other
+2025-04-25,Entertainment,8.21,Spotify Entertainment
+2025-04-25,Entertainment,30.3,Netflix Entertainment
+2025-04-25,Other,20.64,Donation Other
+2025-04-26,Transport,7.07,Bus Transport
+2025-04-27,Food,63.98,Subway Food
+2025-04-28,Transport,11.55,Uber Transport
+2025-05-01,Shopping,30.22,Amazon Shopping
+2025-05-03,Transport,6.34,Bus Transport
+2025-05-03,Transport,12.66,Gas Station Transport
+2025-05-04,Shopping,30.48,Zara Shopping
+2025-05-04,Other,7.44,Donation Other
+2025-05-04,Shopping,41.98,Amazon Shopping
+2025-05-06,Food,39.68,Starbucks Food
+2025-05-07,Transport,11.59,Uber Transport
+2025-05-07,Food,81.95,Starbucks Food
+2025-05-09,Transport,16.31,Gas Station Transport
+2025-05-10,Entertainment,15.63,Netflix Entertainment
+2025-05-11,Other,11.61,Misc Other
+2025-05-13,Food,60.42,Subway Food
+2025-05-13,Shopping,76.55,H&M Shopping
+2025-05-14,Health,61.42,Pharmacy Health
+2025-05-14,Food,30.2,Local Diner Food
+2025-05-15,Health,1090.3,Clinic Health
+2025-05-15,Health,145.0,Pharmacy Health
+2025-05-16,Entertainment,33.07,Cinema Entertainment
+2025-05-16,Other,19.43,Gift Other
+2025-05-19,Shopping,110.11,Amazon Shopping
+2025-05-21,Food,4.78,Subway Food
+2025-05-22,Other,33.27,Gift Other
+2025-05-25,Bills,58.73,Water Co Bills
+2025-05-25,Transport,5.36,Uber Transport
+2025-05-26,Bills,67.71,Water Co Bills
+2025-05-27,Shopping,103.34,H&M Shopping
+2025-05-30,Food,111.15,Subway Food
+2025-05-31,Entertainment,24.91,Netflix Entertainment
+2025-06-01,Transport,1.39,Train Transport
+2025-06-01,Transport,8.13,Train Transport
+2025-06-01,Food,11.78,Local Diner Food
+2025-06-02,Other,49.44,Donation Other
+2025-06-05,Shopping,89.87,Zara Shopping
+2025-06-05,Food,39.98,Subway Food
+2025-06-05,Shopping,22.97,H&M Shopping
+2025-06-08,Health,38.26,Dentist Health
+2025-06-09,Food,7.29,Subway Food
+2025-06-10,Other,52.1,Misc Other
+2025-06-10,Food,27.05,Starbucks Food
+2025-06-10,Food,74.95,Local Diner Food
+2025-06-11,Health,14.83,Clinic Health
+2025-06-13,Bills,81.46,Electric Co Bills
+2025-06-13,Transport,9.98,Gas Station Transport
+2025-06-14,Entertainment,27.88,Netflix Entertainment
+2025-06-16,Other,8.87,Misc Other
+2025-06-17,Food,18.39,Local Diner Food
+2025-06-19,Food,14.07,McDonalds Food
+2025-06-21,Health,55.51,Dentist Health
+2025-06-22,Bills,165.91,Water Co Bills
+2025-06-25,Other,51.76,Donation Other
+2025-06-27,Other,27.38,Gift Other
+2025-06-29,Shopping,101.91,H&M Shopping
